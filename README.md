@@ -1,5 +1,4 @@
 # Feature-Extraction-from-handwritten-Digits
-# Feature Extraction from Handwritten Digits
 
 ## Project Description
 
