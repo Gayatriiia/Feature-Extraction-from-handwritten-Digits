@@ -1,0 +1,4 @@
+Feature Method,Number of Features
+Raw Pixels,784
+HOG,1296
+PCA,97
