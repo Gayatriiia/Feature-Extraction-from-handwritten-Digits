@@ -4,3 +4,8 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 dataset/
+results/*.npy
+results/mnist_hog_train.csv
+results/mnist_hog_test.csv
+results/handwritten_digit_hog_features.csv
+results/hog_features.csv
